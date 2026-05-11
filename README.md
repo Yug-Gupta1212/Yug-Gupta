@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate and dedicated B.Tech CSE student with a strong interest in Web Development, AI/ML, IoT, and innovative technologies. Skilled in HTML, CSS, JavaScript, React, and problem-solving, with hands-on experience in building practical and impactful projects.<br> Developed projects like a Food Sensor System focused on improving food quality and safety through smart sensing technology, and worked on a CubeSat-based project exploring modern space and satellite technologies. These projects helped strengthen my skills in development, research, teamwork, and real-world problem solving.
+Passionate and dedicated B.Tech CSE student with a strong interest in Web Development, AI/ML, IoT, and innovative technologies. Skilled in HTML, CSS, JavaScript, React, and problem-solving, with hands-on experience in building practical and impactful projects.<br> Developed projects like a Food Sensor System focused on improving food quality and safety through smart sensing technology, and worked on a CubeSat-based project exploring modern space and satellite technologies. These projects helped strengthen my skills in development, research, teamwork,  real-world problem solving.
 
 
 ## 🌐 Socials:
